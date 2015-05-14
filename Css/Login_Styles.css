@@ -1,0 +1,6 @@
+body,html{
+  height:90%;
+  margin-bottom:-5px;
+}
+div.main_container{width:800px; margin:auto; padding-top:150px; text-align:center;}
+div.login_form{width:222px; min-height:80px; text-align:center; margin:auto; background-color:#8cccfc; border:1px solid black; padding:30px;}
